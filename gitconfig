@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lorcanodufuwabolger@gmail.com
+	name = Lorcan Odufuwa-Bolger
